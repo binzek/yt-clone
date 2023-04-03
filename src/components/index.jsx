@@ -6,3 +6,5 @@ export { default as VideoDetail } from "./VideoDetail.jsx";
 export { default as Searchbar } from "./Searchbar.jsx";
 export { default as Sidebar } from "./Sidebar.jsx";
 export { default as Videos } from "./Videos.jsx";
+export { default as VideoCard } from "./VideoCard.jsx";
+export { default as ChannelCard } from "./ChannelCard.jsx";
