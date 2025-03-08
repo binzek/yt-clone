@@ -2,7 +2,7 @@
 
 This is a clone application of Youtube made with React and Youtube v3 API. Well, even this is a Youtube clone, UI is different actually.
 
-### [Live Demo](https://yt-clone.wajid.me)
+### [Live Demo](https://yt-clone.live.binzek.com/)
 
 ## Local Installation
 
